@@ -2,7 +2,7 @@
   <img src="assets/save.jpg" alt="AI researcher banner" width="800"/>
 </p>
 
-# 🌸 Hey there~ I’m *prodigiouscognition* 🧠💫  
+# 🌸 Hey there~ I’m *Ojaswini Sharma* 🧠💫  
 
 > *“Somewhere between equations and neurons, I find a bit of magic.”*
 
