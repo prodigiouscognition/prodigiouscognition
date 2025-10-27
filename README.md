@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="AI researcher banner" width="800"/>
+  <img src="assets/save.jpg" alt="AI researcher banner" width="800"/>
 </p>
 
 # 🌸 Hey there~ I’m *prodigiouscognition* 🧠💫  
