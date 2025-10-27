@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="AI researcher banner" width="800"/>
+</p>
+
 # 🌸 Hey there~ I’m *prodigiouscognition* 🧠💫  
 
 > *“Somewhere between equations and neurons, I find a bit of magic.”*
