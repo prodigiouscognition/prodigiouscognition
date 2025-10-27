@@ -9,16 +9,16 @@
 Hi! I’m an **AI Engineer** and researcher who loves exploring how intelligence, physics, and mathematics intertwine.  
 You’ll often find me deep in code, equations, or daydreaming about the universe ✨  
 
-I’m endlessly curious — about how things *think*, *move*, and *learn* 🪐
+I’m endlessly curious - about how things *think*, *move*, and *learn* 🪐
 
 ---
 
 ### 🧁 What I Love Working On  
 
-- 🤖 **AI & Cognitive Research** — understanding how models reason and learn  
-- 🧬 **Physics-Inspired ML** — because the universe is the best teacher  
-- 🧮 **Mathematics** — the language that ties everything together  
-- 🌈 **Creative AI** — blending logic with imagination  
+- 🤖 **AI & Cognitive Research** - understanding how models reason and learn  
+- 🧬 **Physics-Inspired ML** - because the universe is the best teacher  
+- 🧮 **Mathematics** - the language that ties everything together  
+- 🌈 **Creative AI** - blending logic with imagination  
 
 ---
 
@@ -30,7 +30,7 @@ I’m endlessly curious — about how things *think*, *move*, and *learn* 🪐
 ---
 
 ### 💕 My Philosophy  
-> “Science with a touch of wonder — that’s where true discovery begins.” 🌙  
+> “Science with a touch of wonder - that’s where true discovery begins.” 🌙  
 
 ---
 
